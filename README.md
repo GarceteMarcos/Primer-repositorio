@@ -1,2 +1,1 @@
-# Primer-repositorio
-mi primer repositorio
+Este es un proyecto sobre como crear un repositorio en Github y clonarlo de forma local en mi pc.
